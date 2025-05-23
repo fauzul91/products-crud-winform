@@ -1,0 +1,46 @@
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Learn Data Grid View.exe
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Learn Data Grid View.deps.json
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Learn Data Grid View.runtimeconfig.json
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Learn Data Grid View.dll
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Learn Data Grid View.pdb
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.csproj.GenerateResource.cache
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.AssemblyInfoInputs.cache
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.AssemblyInfo.cs
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.csproj.CoreCompileInputs.cache
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.dll
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\refint\Learn Data Grid View.dll
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.pdb
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.genruntimeconfig.cache
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\ref\Learn Data Grid View.dll
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.csproj.AssemblyReference.cache
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Da.0C1D3D49.Up2Date
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn_Data_Grid_View.FormProduk.resources
+C:\Users\fauzu\source\repos\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn_Data_Grid_View.Produk.resources
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Learn Data Grid View.exe
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Learn Data Grid View.deps.json
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Learn Data Grid View.runtimeconfig.json
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Learn Data Grid View.dll
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Learn Data Grid View.pdb
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.csproj.AssemblyReference.cache
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn_Data_Grid_View.Produk.resources
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.csproj.GenerateResource.cache
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.AssemblyInfoInputs.cache
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.AssemblyInfo.cs
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.csproj.CoreCompileInputs.cache
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.sourcelink.json
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Da.0C1D3D49.Up2Date
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.dll
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\refint\Learn Data Grid View.dll
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.pdb
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn Data Grid View.genruntimeconfig.cache
+C:\Users\fauzu\Source\Repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\ref\Learn Data Grid View.dll
+C:\Users\fauzu\source\repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn_Data_Grid_View.View.EditProduk.resources
+C:\Users\fauzu\source\repos\products-crud-winform\Learn Data Grid View\Learn Data Grid View\obj\Debug\net8.0-windows\Learn_Data_Grid_View.View.TambahProduk.resources

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="View\Auth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\EditProduk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Produk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\TambahProduk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
